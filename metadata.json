@@ -1,0 +1,5 @@
+{
+  "name": "Sales vs CS Dashboard",
+  "description": "Painel executivo comparativo entre os times de Ataque (Vendas) e Defesa (Customer Success), com foco em funções, metas e remuneração.",
+  "requestFramePermissions": []
+}
